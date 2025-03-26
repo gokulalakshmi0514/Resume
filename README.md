@@ -169,7 +169,7 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="https://online.flippingbook.com/view/932789371/" target="_blank" class="download-button">Download CV</a>
+            <a href="GokulaLakshmi_Resume.pdf" target="GokulaLakshmi_Resume.pdf" class="download-button">Download CV</a>
         </center>
         </div>
         
